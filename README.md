@@ -1,6 +1,8 @@
 Shopify Terraform Provider
 ==========================
 
+This repo was forked from https://github.com/edahlseng/terraform-provider-shopify
+
 Setup
 -----
 
